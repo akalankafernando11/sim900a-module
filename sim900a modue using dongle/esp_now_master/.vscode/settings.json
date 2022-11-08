@@ -1,0 +1,18 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "array": "cpp",
+        "*.tcc": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "vector": "cpp",
+        "system_error": "cpp",
+        "memory_resource": "cpp",
+        "fstream": "cpp",
+        "memory": "cpp",
+        "sstream": "cpp"
+    },
+    "C_Cpp.intelliSenseEngineFallback": "Enabled"
+}
